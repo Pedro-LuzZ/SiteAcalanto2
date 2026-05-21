@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-center gap-6 md:gap-12 mb-8">
             <a href="tel:(48)30346422" className="flex items-center justify-center gap-3 hover:opacity-80 transition">
               <span className="text-2xl">📞</span>
-              <span className="text-base md:text-lg">(48) 3034-5422</span>
+              <span className="text-base md:text-lg">(48) 9 9806-0568</span>
             </a>
             <a href="mailto:contato@acalantoresidence.com.br" className="flex items-center justify-center gap-3 hover:opacity-80 transition">
               <span className="text-2xl">✉️</span>
@@ -16,7 +16,7 @@ export default function Footer() {
             </a>
             <a href="https://www.instagram.com/acalanto_residence/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-3 hover:opacity-80 transition">
               <img src="/instagram.png" alt="Instagram" className="w-6 h-6" />
-              <span className="text-base md:text-lg">@Acalanto_residence</span>
+              <span className="text-base md:text-lg">@acalanto_residence</span>
             </a>
           </div>
         </div>

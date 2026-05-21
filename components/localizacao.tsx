@@ -6,7 +6,7 @@ export default function Localizacao() {
           <div className="bg-white rounded-3xl p-8 md:p-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-6" style={{color: "#0CB4B4"}}>Onde<br />estamos?</h2>
             <p className="text-gray-700 leading-relaxed">
-              Nos localizamos na Rua João Câncio, 169<br/>
+              Estamos localizados na Rua João Câncio, 169<br/>
               Bairro Pantanal<br/>
               Florianópolis, SC
             </p>
